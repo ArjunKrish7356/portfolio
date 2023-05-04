@@ -9,7 +9,7 @@ gsap.from(down, {
   scrollTrigger: {
     trigger: down,
      start: 'top 90%',
-    end: 'center 50%',
+    end: 'top 80%',
     scrub: true
   }
 });
