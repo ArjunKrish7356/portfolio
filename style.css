@@ -127,12 +127,13 @@
     align-items: center;
 }
 .aboutme{
-    position: relative;
-    left: 40%;
+    text-align: center;
     bottom: 5vh;
 }
 .container-about{
-    height: 500px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    height: auto;
     width: 90%;
     background-color:#76BA99;
 
@@ -311,8 +312,6 @@
     height: auto;
 }
 .aboutme{
-    position: relative;
-    left: 30%;
 }
 .container-about{
   margin-top: 10%;

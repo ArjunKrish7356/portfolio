@@ -1,10 +1,10 @@
-const down = document.querySelector('.drop');
+const down = document.querySelector('.container-about');
 
 
 
 gsap.from(down, {
   opacity: 0, 
-  y: -100,
+  x: -100,
   duration: 5,
   scrollTrigger: {
     trigger: down,
