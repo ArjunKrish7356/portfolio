@@ -216,7 +216,7 @@
      justify-content: center;
 }
 .col{
-    width: calc(100%/3%);
+    width: calc(100%/2%);
     height: 40vh;
     display: flex;
     justify-content: center;
@@ -229,6 +229,7 @@
     text-align: center;
     overflow: hidden;
     border-radius: 20px;
+    border: solid 1px black;
 }
 .project-holder:hover{
     width: 80%;
