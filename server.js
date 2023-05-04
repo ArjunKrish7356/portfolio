@@ -8,8 +8,8 @@ gsap.from(down, {
   duration: 5,
   scrollTrigger: {
     trigger: down,
-    start: 'top 50%',
-    end: 'top 1%',
+     start: 'top 90%',
+    end: 'center 50%',
     scrub: true
   }
 });
